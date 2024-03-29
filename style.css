@@ -45,7 +45,7 @@ body{
 }
 .btn:hover:not([disabled]){
     background: #001e4d;
-    color: #fff;
+    color: black;
 }
 .btn:disabled{
     cursor: no-drop;
